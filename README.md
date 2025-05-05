@@ -1,16 +1,28 @@
-## Hi there 👋
+## Olá 👋 Victor Hugo
 
-<!--
-**vithugsancos/vithugsancos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou aluno do curso de Desenvolvimento de Sistemas e estou focado em aprender a criar soluções tecnológicas inteligentes, escaláveis e seguras.
 
-Here are some ideas to get you started:
+💻 Desenvolvimento Backend: Estou aprendendo sobre Java, Kotlin e Go (Golang), além de me aprofundar na arquitetura de microsserviços.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁️ Nuvem e Infraestrutura: Foco em ambientes em nuvem com alta disponibilidade, resiliência, monitoramento contínuo e recuperação de desastres.
+
+🛠️ DevOps e Automação: Explorando containers, CI/CD, infraestrutura como código e práticas de automação para otimizar o desenvolvimento e operações de sistemas.
+
+🔐 Cibersegurança e IA: Me interessando por cibersegurança, redes neurais e inteligência artificial, aplicados em sistemas críticos.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vithugsancos&show_icons=true&theme=tokyonight&hide_title=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vithugsancos&layout=compact&theme=tokyonight" />
+</p>
+
+## 🚀 Linguagens e Tecnologias
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+</p>
+
+---
