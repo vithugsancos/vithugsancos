@@ -8,8 +8,6 @@ Sou aluno do curso de Desenvolvimento de Sistemas e estou focado em aprender a c
 
 🛠️ DevOps e Automação: Explorando containers, CI/CD, infraestrutura como código e práticas de automação para otimizar o desenvolvimento e operações de sistemas.
 
-🔐 Cibersegurança e IA: Me interessando por cibersegurança, redes neurais e inteligência artificial, aplicados em sistemas críticos.
-
 ---
 
 ## 📊 GitHub Stats
