@@ -22,8 +22,11 @@ Sou aluno do curso de Desenvolvimento de Sistemas e estou focado em aprender a c
 ## 🚀 Linguagens e Tecnologias
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
 </p>
+
+##
 
 <p align="center">
   <img src="https://media.tenor.com/kM_0m8GrOFYAAAAM/dexter-hatsune-miku.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 220px; height: 193px; margin: 0px; width: 220px;" alt="Dexter GIFs | Tenor" jsname="kn3ccd">
